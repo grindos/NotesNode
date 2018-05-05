@@ -1,5 +1,3 @@
-const fs = require('fs');
-const _ = require('lodash');
 const yargs = require('yargs');
 
 const notes = require('./notes.js');
@@ -20,7 +18,7 @@ if (command === 'add') {
 } else if (command === 'list') {
     let allNotes = notes.getAll();
 
-    console.log(`Printing ${allNotes.length} note(s)`);
+    console.log(`Printing ${allNotes.length} note(s).`);
     if (allNotes.length !== 0) {
         allNotes.forEach((note) => {
             notes.logNote(note);
