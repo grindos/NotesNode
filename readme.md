@@ -8,17 +8,17 @@ Commands
 
 ### add ###
 
---title, -t: Title of note
+*--title, -t: Title of note*
 
---body, -b: Body of note
+*--body, -b: Body of note*
 
 Add a new note.
 
 ### read ###
 
---title, -t: Title of note
+*--title, -t: Title of note*
 
-Find a note by title
+Find a note by title.
 
 ### list ###
 
@@ -26,6 +26,6 @@ Print all notes
 
 ### remove ###
 
---title, -t: Title of note
+*--title, -t: Title of note*
 
-Remove a note by title
+Remove a note by title.
