@@ -22,7 +22,7 @@ Find a note by title.
 
 ### list ###
 
-Print all notes
+Print all notes.
 
 ### remove ###
 
