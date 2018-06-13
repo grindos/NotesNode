@@ -1,7 +1,7 @@
 Notes CLI application
 =====================
 
-This application was created according to [Andrew Mead's course from Udemy](https://www.udemy.com/the-complete-nodejs-developer-course-2) (3rd section):
+This applications allows you to manage notes through command line. It can add, read, list and remove your notes. It saves them as plain text.
 
 Commands
 --------
